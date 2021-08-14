@@ -18,14 +18,13 @@
 	<p>commons-collections:commons-collections:3.2.1</p>
 	<p>commons-io:commons-io:2.5</p>
 	<p>commons-lang:commons-lang:2.4</p>
-	<b><p>io.github.teddyxlandlee:download-utils:0.1.2</p></b>
-	<b><p>io.featurehouse:sweet_potato_mod:1.1.0 for 1.16.5-1.16.2</p></b>
+	<p>io.github.teddyxlandlee:download-utils:0.1.2</p>
 	<i><p>junit:junit:3.8.1</p></i>
 	<p>junit:junit:4.12</p>
 	<p>net.sf.jtidy:jtidy:r938</p>
 	<p>xmlpull:xmpull:1.1.3.1</p>
 	<p>xpp3:xpp3_min:1.1.4c</p>
 	<b><p>xyz.shurlin:shurlin:0.1.2-beta.1+88a79a1b</p></b>
-	<a href='https://github.com/COVID-Trump/COVID-Trump.github.io'><p>...</p></a>
+	<a href='https://github.com/COVID-Trump/COVID-Trump.github.io'><p>More information see GitHub</p></a>
 </body>
 </html>
