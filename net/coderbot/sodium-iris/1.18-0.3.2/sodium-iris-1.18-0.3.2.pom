@@ -4,10 +4,10 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>me.jellysquid.mods</groupId>
-  <artifactId>sodium-fabric</artifactId>
-  <version>1.17.1-0.3.2+build.7</version>
-  <name>Sodium Mod (Fabric)</name>
+  <groupId>net.coderbot</groupId>
+  <artifactId>sodium-iris</artifactId>
+  <version>1.18-0.3.2</version>
+  <name>Sodium Mod (Iris)</name>
   <repositories>
     <repository>
       <snapshots>
@@ -23,12 +23,12 @@
   <dependency>
     <groupId>net.fabricmc.fabric-api</groupId>
     <artifactId>fabric-rendering-fluids-v1</artifactId>
-    <version>0.1.13+a02b446313</version>
+    <version>0.1.18+3ac43d956d</version>
   </dependency>
   <dependency>
     <groupId>net.fabricmc.fabric-api</groupId>
     <artifactId>fabric-rendering-data-attachment-v1</artifactId>
-    <version>0.1.5+a02b446313</version>
+    <version>0.2.3+3ac43d956d</version>
   </dependency>
   </dependencies>
 </project>
