@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Feb 14 19:47:54 CST 2021
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1613303274031
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:pom\:3.1 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.pom from central failed
